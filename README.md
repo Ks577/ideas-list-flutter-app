@@ -1,16 +1,17 @@
-# ideas_list_flutter
+# Ideas List App 💡
+A simple Flutter app for saving and organizing your personal ideas. You can add, edit, and delete notes - everything is stored locally using SharedPreferences.
 
-A new Flutter project.
+## Demo
+<img src="assets/images/demo.gif" width="350" alt="Demo GIF" />
+App demo</p>
 
-## Getting Started
+## Installation
+```bash
+git clone https://github.com/Ks577/ideas-list-flutter-app.git
+cd ideas-list-flutter-app
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
