@@ -2,7 +2,7 @@
 A simple Flutter app for saving and organizing your personal ideas. You can add, edit, and delete notes - everything is stored locally using SharedPreferences.
 
 ## Demo
-<img src="assets/images/demo.gif" width="350" alt="Demo GIF" />
+<img src="assets/images/demo.gif" width="340" alt="Demo GIF" />
 App demo</p>
 
 ## Installation
